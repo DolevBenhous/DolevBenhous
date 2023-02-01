@@ -7,10 +7,11 @@
 
 <br>
 
-- ⚡ A passionate Self-taught Embedded Engineer
+- ⚡ A passionate Embedded Engineer
 - 📝 I graduated from HIT academic college with a bachelor’s degree.
 - 👩‍💻 Hands on expirienced on STM32f746zg.
 - ⚙️ knowledge of protocols like: SPI, I2C, UART.
+- 💻 Finish "RT Embedded system course".  
 - 🎯 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aiUAqwBiOxYxzAzJx0sh7qqhp8e4gtxz/view?usp=share_link)
 
 <br>
